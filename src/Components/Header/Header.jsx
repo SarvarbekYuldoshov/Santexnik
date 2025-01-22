@@ -1,4 +1,5 @@
 import React from 'react'
+import "./Header.css"
 import Rasm_1 from "../images/rasm1.webp"
 
 const Header = () => {
@@ -8,9 +9,13 @@ const Header = () => {
             <div className='header-container'>
                <ul className='header-list'>
                     <li className='header-item'>
-                        <a className='header-link' href="">Ishlarimiz</a>
-                        <img className='header-img' src={Rasm_1} alt="" />
-                        <a className='header-link' href="">Ishchilarimiz</a>
+                        <a className='header-link' href="">ISHLARIMIZ</a>
+                    </li>
+                    <li className='header-item'>
+                        {/* <img className='header-img' src={Rasm_1} alt="" /> */}
+                    </li>
+                    <li className='header-item'>
+                        <a className='header-link' href="">BIZDA HAMMASi</a>
                     </li>
                </ul>
             </div>
