@@ -13,8 +13,12 @@
     list-style: none;
 }
 .header-img{
-    width: 300px;
-    height: 300px;
+    width:50px;
+    height: 30px;
+    border-top-left-radius: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 10px;
 }
 .header-link {
     text-decoration: none;
