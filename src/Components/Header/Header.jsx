@@ -8,6 +8,7 @@ const Header = () => {
                <ul className='header-list'>
                     <li className='header-item'>
                         <a className='header-link' href="">Ishlarimiz</a>
+                        <img className='header-img' src="" alt="" />
                         <a className='header-link' href="">Ishchilarimiz</a>
                     </li>
                </ul>
