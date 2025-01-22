@@ -8,10 +8,7 @@ const Header = () => {
                <ul className='header-list'>
                     <li className='header-item'>
                         <a className='header-link' href="">Ishlarimiz</a>
-                        <a className='header-link' href="">Ishlarimiz</a>
-                        <a className='header-link' href="">Ishlarimiz</a>
-                        <a className='header-link' href="">Ishlarimiz</a>
-                        <a className='header-link' href="">Ishlarimiz</a>
+                        <a className='header-link' href="">Ishchilarimiz</a>
                     </li>
                </ul>
             </div>
