@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Header.css"
 import Rasm_1 from "../images/rasm1.webp"
+import { Button } from 'antd'
 
 const Header = () => {
   return (
@@ -22,6 +23,9 @@ const Header = () => {
                     </li>
                     <li className='header-item'>
                         <a className='header-link' href="">BIZDA HAMMASi</a>
+                    </li>
+                    <li className='header-item'>
+                         <Button>Buyurtma berish</Button>
                     </li>
                </ul>
             </div>
