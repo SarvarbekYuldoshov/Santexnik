@@ -13,9 +13,6 @@ const Header = () => {
                         <a className='header-link' href="">BIZDA HAMMASi</a>
                     </li>
                     <li className='header-item'>
-                        <img className='header-img' src={Rasm_1} alt="" />
-                    </li>
-                    <li className='header-item'>
                         <a className='header-link' href="">ASAOSIY</a>
                     </li>
                     <li className='header-item'>
