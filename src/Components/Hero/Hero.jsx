@@ -4,15 +4,13 @@ import 'swiper/css';
 import 'swiper/css/effect-cards';
 import { EffectCards } from 'swiper/modules';
 
-export default function About() {
+export default function Hero() {
   return (
     <>
-    <div className='about'>
+    <div className='hero'>
       <div className='container about-container'>
         <ul className='about-list'>
-          <h1 className='about-title'>Смартфоны и гаджеты для близких и друзей по доступной цене</h1>
-          <p className='about-text'>В нашем магазине вы сможете найти качествунную продукцию по досутпным ценам для вашего близкого человека</p>
-          <button className='about-btn'>Посмотреть каталог</button>
+         <h1 className=''></h1>
         </ul>
         <Swiper
         effect={'cards'}
