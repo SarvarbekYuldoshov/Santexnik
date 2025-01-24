@@ -2,9 +2,9 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div className=''>
-       <div className=''>
-        
+    <div className='Hero'>
+       <div className='Hero-container'>
+          
        </div>
     </div>
   )
