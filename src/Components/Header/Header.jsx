@@ -10,6 +10,9 @@ const Header = () => {
             <div className='header-container'>
                <ul className='header-list'>
                     <li className='header-item'>
+                        <a className='header-link' href="">BIZDA HAMMASi</a>
+                    </li>
+                    <li className='header-item'>
                         <img className='header-img' src={Rasm_1} alt="" />
                     </li>
                     <li className='header-item'>
