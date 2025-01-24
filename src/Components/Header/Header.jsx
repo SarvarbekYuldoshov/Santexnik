@@ -22,9 +22,6 @@ const Header = () => {
                         <a className='header-link' href="">NIMA QILA OLAMIZ</a>
                     </li>
                     <li className='header-item'>
-                        <a className='header-link' href="">BIZDA HAMMASi</a>
-                    </li>
-                    <li className='header-item'>
                          <Button>Buyurtma berish</Button>
                     </li>
                </ul>
