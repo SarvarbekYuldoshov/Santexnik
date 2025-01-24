@@ -8,7 +8,7 @@ export default function Hero() {
   return (
     <>
     <div className='hero'>
-      <div className='container about-container'>
+      <div className='container hero-container'>
         <ul className='about-list'>
          <h1 className=''></h1>
         </ul>
