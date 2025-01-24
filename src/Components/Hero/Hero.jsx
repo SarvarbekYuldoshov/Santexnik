@@ -9,8 +9,9 @@ export default function Hero() {
     <>
     <div className='hero'>
       <div className='container hero-container'>
-        <ul className='about-list'>
-         <h1 className=''></h1>
+         <ul className='hero-list'>
+            <h1 className='hero-title'>Biz eng sungi va zamonaviy Santexnika bizning saytda</h1>
+            <p className='hero-text'></p>
         </ul>
         <Swiper
         effect={'cards'}
