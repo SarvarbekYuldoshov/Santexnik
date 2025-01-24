@@ -11,7 +11,7 @@ export default function Hero() {
       <div className='container hero-container'>
          <ul className='hero-list'>
             <h1 className='hero-title'>Biz eng sungi va zamonaviy Santexnika bizning saytda</h1>
-            <p className='hero-text'>Biz sizga har bir santexnika </p>
+            <p className='hero-text'>Biz sizga har bir santexnika ishini qilib bera olamiz buzilgan joylar hamda noldan qurilish kotta abyom farqi yuq barcha ishingizni tez va samarali qilib beramiz</p>
         </ul>
         <Swiper
         effect={'cards'}
