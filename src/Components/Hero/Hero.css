@@ -1,0 +1,117 @@
+.hero-container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+}
+.about-container{
+    margin-top: 100px;
+    display: flex;
+    gap: 50px;
+}
+.about-title{
+    font-family: "Montserrat" ,sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    margin-bottom: 30px;
+    color: rgb(14, 12, 12);
+    text-align: left;
+    width: 450px;
+}
+.about-text{
+    width: 480px;
+    font-family: "Montserrat" ,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: justify;
+    color: rgb(27, 25, 25);
+    margin-bottom: 30px;
+}
+.about-btn{
+    font-family: "Montserrat" ,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 164.4%;
+    background: rgb(224, 72, 72);
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(235, 77, 77);
+    padding: 17px 50px;
+}
+.about-btn:hover{
+    background-color: transparent;
+    color: rgb(235, 77, 77);
+    border: 1px solid  rgb(235, 77, 77);
+    transform: scale(0.95);
+    transition: 1s;
+}
+.hero-title{
+  font-family: "Montserrat" ,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size:32px;
+}
+.about-img{
+  width: 400px;
+  height: 400px;
+  
+}
+
+.mySwiper {
+  width: 500px;
+  height: 400px;
+}
+
+.swiper-slide {
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.swiper-slide:nth-child(1n) {
+  background-color: rgb(7, 7, 254);
+}
+
+.swiper-slide:nth-child(2n) {
+  background-color: rgb(246, 246, 3);
+}
+
+.swiper-slide:nth-child(3n) {
+  background-color: red;
+}
+
+.swiper-slide:nth-child(4n) {
+  background-color: green;
+}
+
+.swiper-slide:nth-child(5n) {
+  background-color: orange;
+}
+
+.swiper-slide:nth-child(6n) {
+  background-color:brown;
+}
+
+.swiper-slide:nth-child(7n) {
+  background-color: yellowgreen;
+}
+
+.swiper-slide:nth-child(8n) {
+  background-color:sandybrown;
+}
+
+.swiper-slide:nth-child(9n) {
+  background-color: forestgreen;
+}
+
+.swiper-slide:nth-child(10n) {
+  background-color:hotpink;
+}
