@@ -2,6 +2,8 @@ import React, { useRef, useState } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/effect-cards';
+import Rasm_2 from "../images/rasm2.jpg"
+import Rasm_3 from "../images/rasm3.jpg"
 import { EffectCards } from 'swiper/modules';
 import "./Hero.css"
 export default function Hero() {
@@ -20,7 +22,7 @@ export default function Hero() {
         className="mySwiper"
       >
         <SwiperSlide>
-          <img className='about-img' src="" alt="" />
+          <img className='hero-img' src={Rasm_2} alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
