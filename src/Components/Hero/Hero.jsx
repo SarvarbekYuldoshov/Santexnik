@@ -46,11 +46,11 @@ export default function Hero() {
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
-          <img className='about-img' src="https://aka-phone.netlify.app/images/smart_watch.png" alt="" />
+          <img className='about-img' src="" alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
-          <img className='about-img' src="https://aka-phone.netlify.app/images/smart_watch.png" alt="" />
+          <img className='about-img' src="" alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
       </Swiper>
