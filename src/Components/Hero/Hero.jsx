@@ -4,6 +4,7 @@ import 'swiper/css';
 import 'swiper/css/effect-cards';
 import Rasm_2 from "../images/rasm2.jpg"
 import Rasm_3 from "../images/rasm4.webp"
+import Rasm_4 from "../images/rasm5.webp"
 import { EffectCards } from 'swiper/modules';
 import "./Hero.css"
 export default function Hero() {
