@@ -80,7 +80,3 @@
 .swiper-slide:nth-child(9n) {
   background-color: forestgreen;
 }
-
-.swiper-slide:nth-child(10n) {
-  background-color:hotpink;
-}
