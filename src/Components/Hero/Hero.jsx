@@ -7,6 +7,8 @@ import Rasm_3 from "../images/rasm4.webp"
 import Rasm_4 from "../images/rasm5.webp"
 import Rasm_5 from "../images/rasm6.webp"
 import Rasm_7 from "../images/rasm7.jpg"
+import Rasm_8 from "../images/rasm8.jpg"
+import Rasm_9 from "../images/rasm9.jpg"
 import { EffectCards } from 'swiper/modules';
 import "./Hero.css"
 export default function Hero() {
@@ -41,19 +43,15 @@ export default function Hero() {
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
-          <img className='about-img' src={Ras} alt="" />
+          <img className='about-img' src={Rasm_7} alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
-          <img className='about-img' src="" alt="" />
+          <img className='about-img' src={Rasm_8} alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
-          <img className='about-img' src="" alt="" />
-          <h1 className='about-title-a'></h1>
-        </SwiperSlide>
-        <SwiperSlide>
-          <img className='about-img' src="" alt="" />
+          <img className='about-img' src={Rasm_9} alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
       </Swiper>
