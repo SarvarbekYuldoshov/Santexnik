@@ -6,7 +6,7 @@ import Rasm_2 from "../images/rasm2.jpg"
 import Rasm_3 from "../images/rasm4.webp"
 import Rasm_4 from "../images/rasm5.webp"
 import Rasm_5 from "../images/rasm6.webp"
-import Rasm_2 from "../images/rasm7.jpg"
+import Rasm_7 from "../images/rasm7.jpg"
 import { EffectCards } from 'swiper/modules';
 import "./Hero.css"
 export default function Hero() {
@@ -41,7 +41,7 @@ export default function Hero() {
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
-          <img className='about-img' src="" alt="" />
+          <img className='about-img' src={Ras} alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
