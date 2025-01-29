@@ -28,27 +28,21 @@ export default function Hero() {
       >
         <SwiperSlide>
           <img className='hero-img' src={Rasm_2} alt="" />
-          <h1 className='hero-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
           <img className='hero-img' src={Rasm_3} alt="" />
-          <h1 className='hero-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
           <img className='hero-img' src={Rasm_4} alt="" />
-          <h1 className='hero-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
           <img className='hero-img' src={Rasm_5} alt="" />
-          <h1 className='hero-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
           <img className='hero-img' src={Rasm_7} alt="" />
-          <h1 className='hero-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
           <img className='hero-img' src={Rasm_8} alt="" />
-          <h1 className='hero-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
           <img className='hero-img' src={Rasm_9} alt="" />
