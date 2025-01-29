@@ -52,7 +52,7 @@ export default function Hero() {
         </SwiperSlide>
         <SwiperSlide>
           <img className='hero-img' src={Rasm_9} alt="" />
-          <h1 className='about-title-a'></h1>
+          <h1 className='hero-title-a'></h1>
         </SwiperSlide>
       </Swiper>
       </div>
