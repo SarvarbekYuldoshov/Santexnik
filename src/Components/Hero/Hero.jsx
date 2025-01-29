@@ -43,7 +43,7 @@ export default function Hero() {
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
-          <img className='about-img' src={Rasm_7} alt="" />
+          <img className='hero-img' src={Rasm_7} alt="" />
           <h1 className='about-title-a'></h1>
         </SwiperSlide>
         <SwiperSlide>
